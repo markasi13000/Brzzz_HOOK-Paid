@@ -186,15 +186,15 @@ else
                     },
                     ["Project Delta"] = {
                         7336302630,
-                        "https://lirp.mrbrainas.workers.dev/ProjectDelta"
+                        "https://raw.githubusercontent.com/markasi13000/Brzzz_HOOK-Paid-SCRIPT/refs/heads/main/BRZZZ_HOOK%20PROJECT/Brzzz_project.lua?token=GHSAT0AAAAAADQOBQLJIOP6KKJ36NTP65K62JVIVTQ"
                     },
                     ["Project Delta Border"] = {
                         7353845952,
-                        "https://lirp.mrbrainas.workers.dev/ProjectDelta"
+                        "https://raw.githubusercontent.com/markasi13000/Brzzz_HOOK-Paid-SCRIPT/refs/heads/main/BRZZZ_HOOK%20PROJECT/Brzzz_project.lua?token=GHSAT0AAAAAADQOBQLJIOP6KKJ36NTP65K62JVIVTQ"
                     },
                     ["Project Delta City-13"] = {
                         73594312486948,
-                        "https://lirp.mrbrainas.workers.dev/ProjectDelta"
+                        "https://raw.githubusercontent.com/markasi13000/Brzzz_HOOK-Paid-SCRIPT/refs/heads/main/BRZZZ_HOOK%20PROJECT/Brzzz_project.lua?token=GHSAT0AAAAAADQOBQLJIOP6KKJ36NTP65K62JVIVTQ"
                     }
                 }
                 local function v60()
